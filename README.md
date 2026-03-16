@@ -7,12 +7,7 @@ Create a professional online presence that can be shared with recruiters, employ
 
 Think of this portfolio as a living project — every new skill, project, or improvement will be added over time, transforming it from a student showcase into a professional developer portfolio.
 
-Live Demo
 
-Live Site: (Add Netlify or GitHub Pages link here)
-
-Example:
-https://your-portfolio-link.netlify.app
 
 Project Purpose
 
